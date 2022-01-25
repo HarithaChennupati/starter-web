@@ -9,4 +9,6 @@ Sample website with plenty of files for demos
 # STARTER Web Project
 # Intoduction
 # Purpose
+# Deployment
 # How to Contribute
+
